@@ -124,7 +124,7 @@
       "name": "ماء",
       "price": "50,000 L.L.",
       "description": "عبوة مياه باردة.",
-      "image": "",
+      "image": "/data/images/water-1.avif",
       "isAvailable": true
     },
     {
@@ -134,7 +134,7 @@
       "name": "شاي",
       "price": "50,000 L.L.",
       "description": "كوب شاي ساخن",
-      "image": "/data/images/water-1.avif",
+      "image": "",
       "isAvailable": true
     }
   ]
