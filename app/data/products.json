@@ -1,0 +1,141 @@
+{
+  "categories": [
+    {
+      "id": "plates",
+      "order": 1,
+      "name": "الأطباق"
+    },
+    {
+      "id": "addons",
+      "order": 2,
+      "name": "الإضافات"
+    },
+    {
+      "id": "drinks",
+      "order": 3,
+      "name": "المشروبات"
+    }
+  ],
+  "products": [
+    {
+      "id": "hommos",
+      "categoryId": "plates",
+      "order": 1,
+      "name": "حمص متبل",
+      "price": "250,000 L.L.",
+      "description": "طبق حمص بالطحينة وزيت الزيتون",
+      "image": "/data/images/hommos.avif",
+      "isAvailable": true
+    },
+    {
+      "id": "fool",
+      "categoryId": "plates",
+      "order": 2,
+      "name": "فول",
+      "price": "250,000 L.L.",
+      "description": "فول مدمس متبل بالثوم والحامض وزيت الزيتون",
+      "image": "/data/images/foul.avif",
+      "isAvailable": true
+    },
+    {
+      "id": "mshawshe",
+      "categoryId": "plates",
+      "order": 3,
+      "name": "مشوشة",
+      "price": "300,000 L.L.",
+      "description": "طبق مشوشة لذيذ وشهي",
+      "image": "/data/images/mshawshe.avif",
+      "isAvailable": true
+    },
+    {
+      "id": "msab7a",
+      "categoryId": "plates",
+      "order": 4,
+      "name": "مسبحة",
+      "price": "250,000 L.L.",
+      "description": "مسبحة حمص أصيلة",
+      "image": "/data/images/msabbha.avif",
+      "isAvailable": true
+    },
+    {
+      "id": "fatte",
+      "categoryId": "plates",
+      "order": 5,
+      "name": "فتّة",
+      "price": "350,000 L.L.",
+      "description": "فتة حمص بالسمنة والصنوبر",
+      "image": "/data/images/fatte.avif",
+      "isAvailable": true
+    },
+    {
+      "id": "bread",
+      "categoryId": "addons",
+      "order": 1,
+      "name": "خبز",
+      "price": "50,000 L.L.",
+      "description": "خبز لبناني طازج",
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "vegetables",
+      "categoryId": "addons",
+      "order": 2,
+      "name": "صحن خضار",
+      "price": "100,000 L.L.",
+      "description": "تشكيلة خضار طازجة (نعناع، فجل، بصل، طماطم)",
+      "image": "/data/images/khodra.avif",
+      "isAvailable": true
+    },
+    {
+      "id": "boiled-chickpeas",
+      "categoryId": "addons",
+      "order": 3,
+      "name": "صحن حمص حب",
+      "price": "150,000 L.L.",
+      "description": "صحن حمص حب مسلوق مع الكمون",
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "pepsi",
+      "categoryId": "drinks",
+      "order": 1,
+      "name": "بيبسي",
+      "price": "100,000 L.L.",
+      "description": "مشروب بيبسي بارد.",
+      "image": "/data/images/pepsi.avif",
+      "isAvailable": true
+    },
+    {
+      "id": "laban",
+      "categoryId": "drinks",
+      "order": 2,
+      "name": "لبن",
+      "price": "100,000 L.L.",
+      "description": "عبوة لبن باردة.",
+      "image": "/data/images/ayran.avif",
+      "isAvailable": true
+    },
+    {
+      "id": "water",
+      "categoryId": "drinks",
+      "order": 3,
+      "name": "ماء",
+      "price": "50,000 L.L.",
+      "description": "عبوة مياه باردة.",
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "tea",
+      "categoryId": "drinks",
+      "order": 4,
+      "name": "شاي",
+      "price": "50,000 L.L.",
+      "description": "كوب شاي ساخن",
+      "image": "/data/images/water-1.avif",
+      "isAvailable": true
+    }
+  ]
+}
