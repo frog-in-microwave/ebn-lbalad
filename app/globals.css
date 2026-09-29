@@ -100,24 +100,25 @@ html[dir="rtl"] body {
 
 .phone-number {
   color: var(--brand-black);
+  font-size: 36px;
   text-decoration: none;
   background: var(--brand-red-pure);
-  padding: 8px 16px;
+  padding: 10px 30px;
   border-radius: 999px;
   transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1);
   display: inline-flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-height: 44px;
+  min-height: 26px;
   box-shadow: 0 8px 24px rgba(212, 175, 55, 0.3);
-  flex: 1;
   white-space: nowrap;
   overflow: hidden;
+  font-size: 16px;
 }
 
 .phone-loc {
-  font-size: 0.75rem;
+  font-size: 0.45rem;
   text-transform: uppercase;
   letter-spacing: 1px;
   opacity: 0.9;
@@ -125,7 +126,7 @@ html[dir="rtl"] body {
 }
 
 .phone-val {
-  font-size: 1.1rem;
+  font-size: 16px;
   font-weight: 900;
   letter-spacing: 2px;
 }
@@ -162,7 +163,7 @@ html[dir="rtl"] body {
 }
 
 .restaurant-logo {
-  width: 360px;
+  width: 324px;
   max-width: 85vw;
   height: auto;
   object-fit: contain;
@@ -710,15 +711,16 @@ footer {
   }
 
   .phone-number {
-    padding: 6px 8px;
+  padding: 10px 30px;
+  font-size: 16px;
   }
 
   .phone-loc {
-    font-size: 0.65rem;
+    font-size: 0.39rem;
   }
 
   .phone-val {
-    font-size: 0.9rem;
+    font-size: 16px;
     letter-spacing: 1px;
   }
 

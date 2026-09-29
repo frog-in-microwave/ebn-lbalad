@@ -16,7 +16,6 @@ export default function Header() {
 
         <div className="phone-container">
           <a className="phone-number" href="tel:03805267">
-            <span className="phone-loc">الهاتف</span>
             <span className="phone-val" dir="ltr">
               03 / 805 267
             </span>
